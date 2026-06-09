@@ -1,3 +1,3 @@
 uwuwuuw
 #
-[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,py,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,py,js,lua,md)](https://skillicons.dev)
