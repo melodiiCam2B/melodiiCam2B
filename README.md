@@ -1,6 +1,7 @@
 I Love README.md <3
 #
-# hi
+# libraries and projects
+[HaxeBanana](https://github.com/melodiiCam2B/haxebanana) - a wrapper for the Game Banana API [![GitHub Release](https://img.shields.io/github/release/melodiiCam2B/haxebanana.svg?style=flat)]() 
 
 #
 
